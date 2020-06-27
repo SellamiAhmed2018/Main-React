@@ -1,0 +1,19 @@
+*{
+	background-color: #F4BABA;
+}
+
+#photo{
+	display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 50px;
+    margin-bottom: 50px;
+    width: 600px;
+    height: 400px;
+}
+
+.personal_data {
+	text-align: center;
+	font-size: 36px;
+	font-weight: bold;
+}
